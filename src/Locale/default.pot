@@ -1,0 +1,315 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-09-13 20:33+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CompaniesController.php:60
+msgid "Your companie has been saved."
+msgstr ""
+
+#: Controller/CompaniesController.php:63
+msgid "Unable to add your companie."
+msgstr ""
+
+#: Controller/CompaniesController.php:79
+msgid "Your companie has been updated."
+msgstr ""
+
+#: Controller/CompaniesController.php:82
+msgid "Unable to update your companie."
+msgstr ""
+
+#: Controller/CompaniesController.php:93
+msgid "The {0} companie has been deleted."
+msgstr ""
+
+#: Controller/OrdersController.php:57
+msgid "Order must be added from an companie"
+msgstr ""
+
+#: Controller/OrdersController.php:67
+#: Controller/OrdersController.php:92
+msgid "The order has been saved."
+msgstr ""
+
+#: Controller/OrdersController.php:71
+#: Controller/OrdersController.php:96
+msgid "The order could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:113
+msgid "The order has been deleted."
+msgstr ""
+
+#: Controller/OrdersController.php:115
+msgid "The order could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:74
+#: Controller/UsersController.php:97
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:78
+#: Controller/UsersController.php:101
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:117
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:119
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Companies/add.ctp:10
+#: Template/Companies/edit.ctp:9
+msgid "Save Companie"
+msgstr ""
+
+#: Template/Companies/view.ctp:10
+#: Template/Orders/index.ctp:10
+#: Template/Orders/view.ctp:13
+msgid "New Order"
+msgstr ""
+
+#: Template/Companies/view.ctp:13
+msgid "Related Orders"
+msgstr ""
+
+#: Template/Companies/view.ctp:22
+#: Template/Orders/add.ctp:9
+#: Template/Orders/edit.ctp:9
+#: Template/Orders/index.ctp:9
+#: Template/Orders/index.ctp:25
+#: Template/Orders/view.ctp:9
+#: Template/Users/add.ctp:9
+#: Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:9
+#: Template/Users/index.ctp:25
+#: Template/Users/view.ctp:9
+#: Template/Users/view.ctp:55
+msgid "Actions"
+msgstr ""
+
+#: Template/Companies/view.ctp:33
+#: Template/Orders/index.ctp:37
+#: Template/Users/index.ctp:37
+#: Template/Users/view.ctp:68
+msgid "View"
+msgstr ""
+
+#: Template/Companies/view.ctp:34
+#: Template/Orders/index.ctp:38
+#: Template/Users/index.ctp:38
+#: Template/Users/view.ctp:69
+msgid "Edit"
+msgstr ""
+
+#: Template/Companies/view.ctp:35
+#: Template/Orders/edit.ctp:11
+#: Template/Orders/index.ctp:39
+#: Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:39
+#: Template/Users/view.ctp:70
+msgid "Delete"
+msgstr ""
+
+#: Template/Companies/view.ctp:35
+#: Template/Orders/edit.ctp:13
+#: Template/Orders/index.ctp:39
+#: Template/Orders/view.ctp:11
+#: Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:39
+#: Template/Users/view.ctp:11
+#: Template/Users/view.ctp:70
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Orders/add.ctp:10
+#: Template/Orders/edit.ctp:16
+#: Template/Orders/view.ctp:12
+msgid "List Orders"
+msgstr ""
+
+#: Template/Orders/add.ctp:11
+#: Template/Orders/edit.ctp:17
+#: Template/Orders/index.ctp:11
+#: Template/Orders/view.ctp:14
+#: Template/Users/add.ctp:11
+#: Template/Users/edit.ctp:17
+#: Template/Users/index.ctp:11
+#: Template/Users/view.ctp:14
+msgid "List Companies"
+msgstr ""
+
+#: Template/Orders/add.ctp:12
+#: Template/Orders/edit.ctp:18
+#: Template/Orders/index.ctp:12
+#: Template/Orders/view.ctp:15
+#: Template/Users/add.ctp:12
+#: Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:12
+#: Template/Users/view.ctp:15
+msgid "New Companie"
+msgstr ""
+
+#: Template/Orders/add.ctp:18
+msgid "Add Order"
+msgstr ""
+
+#: Template/Orders/add.ctp:25
+#: Template/Orders/edit.ctp:31
+#: Template/Users/add.ctp:24
+#: Template/Users/edit.ctp:30
+msgid "Submit"
+msgstr ""
+
+#: Template/Orders/edit.ctp:24
+#: Template/Orders/view.ctp:10
+msgid "Edit Order"
+msgstr ""
+
+#: Template/Orders/index.ctp:16
+msgid "Orders"
+msgstr ""
+
+#: Template/Orders/index.ctp:47
+#: Template/Users/index.ctp:47
+msgid "first"
+msgstr ""
+
+#: Template/Orders/index.ctp:48
+#: Template/Users/index.ctp:48
+msgid "previous"
+msgstr ""
+
+#: Template/Orders/index.ctp:50
+#: Template/Users/index.ctp:50
+msgid "next"
+msgstr ""
+
+#: Template/Orders/index.ctp:51
+#: Template/Users/index.ctp:51
+msgid "last"
+msgstr ""
+
+#: Template/Orders/index.ctp:53
+#: Template/Users/index.ctp:53
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: Template/Orders/view.ctp:11
+msgid "Delete Order"
+msgstr ""
+
+#: Template/Orders/view.ctp:22
+msgid "Companie"
+msgstr ""
+
+#: Template/Orders/view.ctp:26
+msgid "Name"
+msgstr ""
+
+#: Template/Orders/view.ctp:30
+#: Template/Users/view.ctp:30
+#: Template/Users/view.ctp:47
+msgid "Id"
+msgstr ""
+
+#: Template/Orders/view.ctp:34
+#: Template/Users/view.ctp:34
+#: Template/Users/view.ctp:53
+msgid "Created"
+msgstr ""
+
+#: Template/Orders/view.ctp:38
+#: Template/Users/view.ctp:38
+#: Template/Users/view.ctp:54
+msgid "Modified"
+msgstr ""
+
+#: Template/Orders/view.ctp:43
+msgid "Order"
+msgstr ""
+
+#: Template/Layout/error.ctp:36
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:44
+msgid "Back"
+msgstr ""
+
+#: Template/Users/add.ctp:10
+#: Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr ""
+
+#: Template/Users/add.ctp:18
+msgid "Add User"
+msgstr ""
+
+#: Template/Users/edit.ctp:24
+#: Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr ""
+
+#: Template/Users/index.ctp:10
+#: Template/Users/view.ctp:13
+msgid "New User"
+msgstr ""
+
+#: Template/Users/index.ctp:16
+msgid "Users"
+msgstr ""
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr ""
+
+#: Template/Users/view.ctp:22
+msgid "Email"
+msgstr ""
+
+#: Template/Users/view.ctp:26
+msgid "Password"
+msgstr ""
+
+#: Template/Users/view.ctp:43
+msgid "Related Companies"
+msgstr ""
+
+#: Template/Users/view.ctp:48
+msgid "User Id"
+msgstr ""
+
+#: Template/Users/view.ctp:49
+msgid "Title"
+msgstr ""
+
+#: Template/Users/view.ctp:50
+msgid "Slug"
+msgstr ""
+
+#: Template/Users/view.ctp:51
+msgid "Body"
+msgstr ""
+
+#: Template/Users/view.ctp:52
+msgid "Published"
+msgstr ""
+
